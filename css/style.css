@@ -1,0 +1,64 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1.6;
+    background-image: url('/img/background01.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: multiply;
+    color: #f0f0f0; 
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color:black;
+    color: aliceblue;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    position:relative;
+    align-items: center;
+    margin: 16px;
+}
+
+.nav-link {
+    display: flex;
+    gap: 60px;
+}
+
+.nav-link li:hover {
+    background-color: gold;
+    border-radius: 5px;
+    color: black;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.logo {
+    background-color: gold;
+    color: black;
+    border-radius: 5px;
+    font-weight:bolder;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding-top: 80px;
+    box-sizing: border-box;
+}
+
