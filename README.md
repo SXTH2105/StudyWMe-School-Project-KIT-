@@ -42,29 +42,18 @@ This project is a **student productivity dashboard** designed with a pixel-art /
 
 ---
 
-## 🖼️ Features Implemented So Far
-
-- Custom pixel background image
-- Pixel-style font
-- Responsive `h1` title aligned to center
-- X-axis aligned list of features
-- Dashboard layout using `aside`
-- GitHub setup for deployment
-
----
 
 ## ✅ Notes
 
 - This project is still **in progress**.
 - I’ve gone a bit **beyond the current class requirement** just to explore and learn more.
-- The background image works locally and I’m troubleshooting the GitHub version.
+- The background image generate by Google Gemini.
 
 ---
 
 ## 📌 Live Preview
 
-https://sxth2105.github.io/StudyWMe-School-Project-KIT-/  
-[🔗 View Project on GitHub Pages](#)
+https://sxth2105.github.io/StudyWMe-School-Project-KIT-/
 
 ---
 
