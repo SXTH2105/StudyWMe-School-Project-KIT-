@@ -48,6 +48,7 @@ This project is a **student productivity dashboard** designed with a pixel-art /
 - This project is still **in progress**.
 - I’ve gone a bit **beyond the current class requirement** just to explore and learn more.
 - The background image generate by Google Gemini.
+- The font of this project called 'Press Start 2P' from https://fonts.googleapis.com
 
 ---
 
